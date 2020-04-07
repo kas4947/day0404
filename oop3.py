@@ -50,7 +50,6 @@ class MainKiosk:
 
 
 
-
 kiosk1 = Kiosk([Menu('김밥',3000),Menu('라면', 4000),
             Menu('떡볶이', 4300),Menu('쫄면', 5000)])
 kiosk2 = Kiosk([Menu('봉골레',12000),Menu('까르보나라', 10000),
